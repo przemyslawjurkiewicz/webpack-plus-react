@@ -1,0 +1,18 @@
+const path = require('path');
+
+module.exports = {
+  entry: './src/index.js',
+  output: {
+    path: path.resolve(__dirname, 'build'),
+    filename: 'app.bundle.js'
+  },
+
+  moldule: {
+    rules: [
+      {
+        test: /\.js$/,
+        loader: 'babel-loader'
+      }
+    ]
+  }
+};
