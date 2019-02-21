@@ -1,0 +1,10 @@
+.Title h1 {
+  color: #275370;
+  text-transform: uppercase;
+}
+
+.Title p {
+  color: #6c7031;
+  font-weight: bold;
+  text-align: center;
+}
