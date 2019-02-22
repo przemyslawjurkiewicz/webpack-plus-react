@@ -2,15 +2,12 @@
     color: #33755c;
     font-size: 20px;
     text-align: left;
-  }
+}
 
-  .List button {
-      margin: 0 10px;
-      font-weight: bold;
-      color:  #275370;
-      font-size: 24px;
-      border: none;
-      
-  }
-  
- 
+.List button {
+    margin: 0 10px;
+    font-weight: bold;
+    color: #275370;
+    background: inherit;
+    border: none;
+}

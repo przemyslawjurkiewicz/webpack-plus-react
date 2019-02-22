@@ -93,7 +93,7 @@
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._3yiYqCh30bHxoUCo120sei h1 {\\r\\n  color: #275370;\\r\\n  text-transform: uppercase;\\r\\n}\\r\\n\\r\\n._3yiYqCh30bHxoUCo120sei p {\\r\\n  color: #6c7031;\\r\\n  font-weight: bold;\\r\\n  text-align: center;\\r\\n  font-size: 24px;\\r\\n}\\r\\n\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"Title\": \"_3yiYqCh30bHxoUCo120sei\"\n};\n\n//# sourceURL=webpack:///./src/components/Title.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._3yiYqCh30bHxoUCo120sei h1 {\\r\\n  color: #275370;\\r\\n  text-transform: uppercase;\\r\\n}\\r\\n\\r\\n._3yiYqCh30bHxoUCo120sei p {\\r\\n  color: #6c7031;\\r\\n  font-weight: bold;\\r\\n  text-align: center;\\r\\n  font-size: 24px;\\r\\n}\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"Title\": \"_3yiYqCh30bHxoUCo120sei\"\n};\n\n//# sourceURL=webpack:///./src/components/Title.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
 
 /***/ }),
 
@@ -104,7 +104,7 @@ eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._3yd4g7KnmZkemjMzVwbhN3 {\\r\\n    color: #33755c;\\r\\n    font-size: 20px;\\r\\n    text-align: left;\\r\\n  }\\r\\n  \\r\\n \", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"List\": \"_3yd4g7KnmZkemjMzVwbhN3\"\n};\n\n//# sourceURL=webpack:///./src/components/TodoList.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
+eval("exports = module.exports = __webpack_require__(/*! ../../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\")(false);\n// Module\nexports.push([module.i, \"._3yd4g7KnmZkemjMzVwbhN3 {\\r\\n    color: #33755c;\\r\\n    font-size: 20px;\\r\\n    text-align: left;\\r\\n}\\r\\n\\r\\n._3yd4g7KnmZkemjMzVwbhN3 button {\\r\\n    margin: 0 10px;\\r\\n    font-weight: bold;\\r\\n    color: #275370;\\r\\n    background: inherit;\\r\\n    border: none;\\r\\n}\", \"\"]);\n\n// Exports\nexports.locals = {\n\t\"List\": \"_3yd4g7KnmZkemjMzVwbhN3\"\n};\n\n//# sourceURL=webpack:///./src/components/TodoList.css?./node_modules/css-loader/dist/cjs.js??ref--5-1");
 
 /***/ }),
 
