@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "webpack --env development",
+    "start": "webpack-dev-server --env development",
     "build": "webpack --env production"
   },
   "keywords": [],
@@ -22,9 +22,11 @@
     "optimize-js-plugin": "0.0.4",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
+    "react-hot-loader": "^4.7.1",
     "style-loader": "^0.23.1",
     "webpack": "^4.27.1",
-    "webpack-cli": "^3.1.2"
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.2.0"
   },
   "dependencies": {
     "uuid": "^3.3.2"
