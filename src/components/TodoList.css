@@ -4,10 +4,18 @@
     text-align: left;
 }
 
+.List li{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 5px 0;
+}
+
 .List button {
     margin: 0 10px;
     font-weight: bold;
     color: #275370;
     background: inherit;
-    border: none;
+    border: 1px solid #275370; ;
+    border-radius: 2px;
 }
