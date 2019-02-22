@@ -1,0 +1,15 @@
+.Form input {
+    border: none;
+    border-bottom: 2px solid #275370;
+    background: inherit;
+    font-size: 16px;
+}
+.Form button {
+    margin: 0 10px;
+    font-weight: bold;
+    color: #275370;
+    background: inherit;
+    border: 1px solid #275370; ;
+    border-radius: 2px;
+    font-size: 20px;
+}
